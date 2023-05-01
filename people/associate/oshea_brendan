@@ -1,0 +1,20 @@
+---
+title: "Brendan O'Shea"
+sortby: "O'Shea, Brendan"
+subtitle: "Medical Student"
+image: oshea_brendan.jpg
+started: "May 2023"
+toc: false
+about:
+  template: solana
+  image-shape: rounded
+  image-width: 200px
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/brendan-o-2bb776106/
+---
+
+## Biography
+
+Hey, I'm Brendan, a final year medical student at King's College London with a passion for data science in healthcare. I had the opportunity to do my medical elective at the HAL, which further fueled my interest in the field. In my free time, I've been teaching myself computer coding for the last two years.
